@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Programing
 - 💞️ I’m looking to collaborate on Team
-- 📫 How to reach me ekiwandana24.skom.id
+- 📫 How to reach me https://ekiwandana24.skom.id
 
 <!---
 ekiwandan2401/ekiwandan2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
